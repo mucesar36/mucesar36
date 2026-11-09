@@ -34,6 +34,7 @@ Projetos em que atuei como desenvolvedor, construídos em equipe. O código é p
 | Projeto | O que é | Stack |
 |---|---|---|
 | **[Radar](https://theradar.com.br)** · em produção | SaaS de prospecção: encontra e qualifica leads com IA | TypeScript, Express, tRPC, React, PostgreSQL, Docker, LLMs |
+| **[LastClick CRM](https://lastclickhub.com)** · em produção | CRM com WhatsApp e IA: funil de vendas, inbox em tempo real e triagem por IA | React, Express, tRPC, Drizzle, MySQL, Baileys, RAG, Docker |
 | **MedFlow** | Gestão de clínicas: WhatsApp, agenda, prontuário e cobrança | React, Vite, tRPC, TanStack Query, Zod |
 | **Anexo** | Banco de questões e simulados para ENEM/vestibular | Next.js, Fastify, Drizzle, PostgreSQL, Python |
 | **Mudei** | App para organizar a mudança para a casa nova | Go (Chi), PostgreSQL, River, Docker |

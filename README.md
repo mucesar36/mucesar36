@@ -37,4 +37,4 @@ Projetos em que atuei como desenvolvedor, construídos em equipe. O código é p
 | **MedFlow** | Gestão de clínicas: WhatsApp, agenda, prontuário e cobrança | React, Vite, tRPC, TanStack Query, Zod |
 | **Anexo** | Banco de questões e simulados para ENEM/vestibular | Next.js, Fastify, Drizzle, PostgreSQL, Python |
 | **Mudei** | App para organizar a mudança para a casa nova | Go (Chi), PostgreSQL, River, Docker |
-| **Tendencia.io** | Plataforma de mercados de previsão com odds em tempo real | Next.js, Prisma, Redis, WebSocket, Ollama |
+

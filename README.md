@@ -16,6 +16,7 @@ Estudante de **Engenharia de Software e Inteligência Artificial na UFPR** e **d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -29,7 +30,7 @@ Estudante de **Engenharia de Software e Inteligência Artificial na UFPR** e **d
 
 ### 🚀 Projetos
 
-Projetos em que atuei como desenvolvedor, construídos em equipe. O código é privado; os detalhes estão no [portfólio](https://murillo-cesar.netlify.app).
+Projetos em que atuei como desenvolvedor, em equipe e pessoais. O código é privado; os detalhes estão no [portfólio](https://murillo-cesar.netlify.app).
 
 | Projeto | O que é | Stack |
 |---|---|---|
@@ -38,4 +39,5 @@ Projetos em que atuei como desenvolvedor, construídos em equipe. O código é p
 | **MedFlow** | Gestão de clínicas: WhatsApp, agenda, prontuário e cobrança | React, Vite, tRPC, TanStack Query, Zod |
 | **Anexo** | Banco de questões e simulados para ENEM/vestibular | Next.js, Fastify, Drizzle, PostgreSQL, Python |
 | **Mudei** | App para organizar a mudança para a casa nova | Go (Chi), PostgreSQL, River, Docker |
+| **Balança** · em desenvolvimento | App Android que lê a balança de bioimpedância por Bluetooth e acompanha peso, meta, previsão e treinos | Kotlin, Jetpack Compose, Bluetooth LE, Health Connect, Supabase |
 

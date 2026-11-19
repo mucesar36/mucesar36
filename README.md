@@ -55,14 +55,15 @@ Balança · em desenvolvimento	App Android com leitura de balança via Bluetooth
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mucesar36&theme=default&hide_border=true" />
     <img height="170" src="https://streak-stats.demolab.com?user=mucesar36&theme=default&hide_border=true" alt="Sequência de contribuições públicas" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mucesar36&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mucesar36&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucesar36&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Linguagens em repositórios públicos" />
-  </picture>
 </div>
-<sub>📌 O gráfico de linguagens contabiliza repositórios públicos, não todos os projetos privados. Os badges acima representam as tecnologias com que trabalho.</sub>
+💻 Linguagens que utilizo nos projetos
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,kotlin&theme=dark" alt="TypeScript, JavaScript, Go, Python e Kotlin" />
+TypeScript · JavaScript · Go · Python · Kotlin
+</div>
+<sub>📌 Como a maioria dos projetos está em repositórios privados, a seção acima apresenta minhas linguagens de trabalho sem inventar percentuais.</sub>
 🐍 A cobrinha das contribuições
+<sub>A animação aparece depois que o workflow do arquivo `.github/workflows/snake.yml` for executado com sucesso.</sub>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mucesar36/mucesar36/output/github-contribution-grid-snake-dark.svg" />

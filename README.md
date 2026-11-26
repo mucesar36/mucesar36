@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Murillo! 👋
+# Olá, sou o Murillo! 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+AI+Builder;Engenharia+de+Software+e+IA+%40+UFPR;Construindo+solu%C3%A7%C3%B5es+reais+de+ponta+a+ponta;Do+primeiro+commit+ao+deploy+%F0%9F%9A%80" alt="Apresentação animada" />
 
